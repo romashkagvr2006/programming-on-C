@@ -22,4 +22,5 @@ Also through process of making the project skills in debugging code in specializ
    1.1 The biggest problem with interfacing controllers with RS-232 line to transmit the signals is the difference of working voltage  range
    The solution based on MAX3232E device. 
 picture with pin's locations in MAX3232E include in file "image.png"
-
+   1.2
+   For each command and for most responses, information packets of the same size — 11 bytes — are used, all following the same logical structure. If a particular byte within a given packet is not used, it is still transmitted, with its value set to zero (00 Hex). A single byte is reserved for the checksum of the packet's bytes, which is calculated using the bitwise logical operation XOR. the second picture can describe it 
