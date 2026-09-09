@@ -21,3 +21,4 @@ Also through process of making the project skills in debugging code in specializ
 1) The structure of adoption and transmission of data through microcontroller of the LPC2000 family
    1.1 The biggest problem with interfacing controllers with RS-232 line to transmit the signals is the difference of working voltage  range
    The solution based on MAX3232E device. 
+https://github.com/romashkagvr2006/programming-on-C/blob/main/image.png - picture with pin's locations in MAX3232E
