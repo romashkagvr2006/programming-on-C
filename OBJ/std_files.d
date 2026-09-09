@@ -1,0 +1,9 @@
+.\obj\std_files.o: APP\STD_Files.c
+.\obj\std_files.o: C:\Keil_v5\ARM\INC\Philips\LPC22XX.H
+.\obj\std_files.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\std_files.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\std_files.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\obj\std_files.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\obj\std_files.o: APP\..\APP\EXTERNALS.h
+.\obj\std_files.o: C:\Keil_v5\ARM\RV31\INC\..\INC\Net_Config.h
+.\obj\std_files.o: APP\..\APP\..\APP\DEFINITION.h

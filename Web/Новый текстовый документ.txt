@@ -1,0 +1,57 @@
+
+это HTML
+
+
+<label><input type="checkbox" /><i></i></label>
+<label><input type="radio" name="name" /><i></i></label>
+<label><input type="radio" name="name" /><i></i></label>
+
+это CSS
+
+body{
+text-align:center;
+}
+
+input{
+display:none;
+}
+
+label{
+display:inline-block;
+margin: 150px 10px;
+}
+
+i{
+display:inline-block;
+wigth: 100px;
+height: 100px
+border: 1px solid #ccc;
+border-radius: 6px;
+position: relative;
+}
+
+input[type="radio"]+i{
+border-radius: 50%
+}
+
+i:before{
+content:'';
+position:absolute;
+top: 10px; bottom: 10px;
+left: 10px; right: 10px;
+background: red;
+border-radius: 6px;
+/* transform:scale(0); */
+opacity:0;
+transition: .4s;
+}
+
+
+input[type="radio"]+ibefore{
+border-radius: 50%
+}
+
+input:checked+i:before{
+/* transform:scale(1); */
+opacity:1;
+}

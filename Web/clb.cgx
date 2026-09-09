@@ -1,0 +1,7 @@
+t <form>
+t <text>
+t <id>cl_time</id>
+c s<value3>%03d</value3>
+t </text>
+t </form>
+.

@@ -1,0 +1,114 @@
+Dependencies for Project 'ARM_OS', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\ARM_OS.c)(0x6A58ACBE)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\arm_os.o --omf_browse .\obj\arm_os.crf --depend .\obj\arm_os.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (APP\EXTERNALS.h)(0x69CA26CB)
+I (APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+F (.\Startup.s)(0x69CA26D4)(--cpu ARM7TDMI -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 543"-o .\obj\startup.o --depend .\obj\startup.d)
+F (.\APP\DM9000_16.c)(0x69CA26CB)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\dm9000_16.o --omf_browse .\obj\dm9000_16.crf --depend .\obj\dm9000_16.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (APP\..\APP\DM9000.H)(0x69CA26CB)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (APP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (APP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+F (.\APP\Serial.c)(0x6A589361)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.h)(0x559D2158)
+I (APP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (APP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+F (.\APP\STD_Files.c)(0x69CA26CB)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\std_files.o --omf_browse .\obj\std_files.crf --depend .\obj\std_files.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x69D387B4)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (APP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (APP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+F (.\APP\Retarget.c)(0x69CA26CB)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (APP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (APP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x69D387B9)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_sys.h)(0x69D387B9)
+I (C:\Keil_v5\ARM\RV31\INC\File_Config.h)(0x559D26C8)
+F (.\APP\Command.c)(0x69CA26CB)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\command.o --omf_browse .\obj\command.crf --depend .\obj\command.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x69D387B7)
+I (APP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (APP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+F (.\TCP\HTTP_uif.c)(0x6A58AB0A)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\http_uif.o --omf_browse .\obj\http_uif.crf --depend .\obj\http_uif.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+F (.\TCP\Net_Config.c)(0x6A589D96)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\net_config.o --omf_browse .\obj\net_config.crf --depend .\obj\net_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (C:\Keil_v5\ARM\RV31\INC\Net_lib.c)(0x559D26C8)
+F (.\TCP\HTTP_CGI.c)(0x6A58AC25)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\http_cgi.o --omf_browse .\obj\http_cgi.crf --depend .\obj\http_cgi.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC21XX.h)(0x559D2158)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (TCP\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (TCP\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+F (..\..\..\RV31\LIB\TCP_ARM_L.lib)(0x55E59D20)()
+F (.\WEB\web.inp)(0x69CA26D9)()
+F (.\WEB\WEB.C)(0x6A58B49A)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\web_1.o --omf_browse .\obj\web_1.crf --depend .\obj\web_1.d)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+F (.\FS\File_Config.c)(0x69CA26CC)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\file_config.o --omf_browse .\obj\file_config.crf --depend .\obj\file_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\File_Config.h)(0x559D26C8)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (C:\Keil_v5\ARM\RV31\INC\File_lib.c)(0x559D26C8)
+F (..\..\..\RV31\LIB\FS_ARM_L.lib)(0x5942D268)()
+F (.\RSS\RSS.c)(0x6A58B200)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\rss.o --omf_browse .\obj\rss.crf --depend .\obj\rss.d)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x69D387B7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x69D387C4)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (RSS\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (RSS\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+F (.\RSS\SPI_LPC2294.c)(0x69CA26D3)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\spi_lpc2294.o --omf_browse .\obj\spi_lpc2294.crf --depend .\obj\spi_lpc2294.d)
+I (C:\Keil_v5\ARM\RV31\INC\File_Config.h)(0x559D26C8)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+F (.\RSS\zapros.c)(0x6A58B44F)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\zapros.o --omf_browse .\obj\zapros.crf --depend .\obj\zapros.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (RSS\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (RSS\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+F (.\RSS\meteo.c)(0x69CA26D3)(--c99 -c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="543" -DSTDIO-o .\obj\meteo.o --omf_browse .\obj\meteo.crf --depend .\obj\meteo.d)
+I (RSS\..\APP\EXTERNALS.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x69D387C3)
+I (C:\Keil_v5\ARM\RV31\INC\Net_Config.h)(0x6A0C03B0)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x6A57930C)
+I (RSS\..\APP\..\APP\DEFINITION.h)(0x69CA26CB)
+I (C:\Keil_v5\ARM\INC\Philips\LPC22XX.H)(0x559D2158)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x69D387C4)

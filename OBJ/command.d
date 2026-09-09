@@ -1,0 +1,9 @@
+.\obj\command.o: APP\Command.c
+.\obj\command.o: C:\Keil_v5\ARM\INC\Philips\LPC22XX.H
+.\obj\command.o: C:\Keil_v5\ARM\RV31\INC\Net_Config.h
+.\obj\command.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\obj\command.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\command.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\command.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\command.o: APP\..\APP\EXTERNALS.h
+.\obj\command.o: APP\..\APP\..\APP\DEFINITION.h

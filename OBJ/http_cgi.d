@@ -1,0 +1,9 @@
+.\obj\http_cgi.o: TCP\HTTP_CGI.c
+.\obj\http_cgi.o: C:\Keil_v5\ARM\INC\Philips\LPC21XX.h
+.\obj\http_cgi.o: C:\Keil_v5\ARM\RV31\INC\Net_Config.h
+.\obj\http_cgi.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\obj\http_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\http_cgi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\http_cgi.o: TCP\..\APP\EXTERNALS.h
+.\obj\http_cgi.o: TCP\..\APP\..\APP\DEFINITION.h
+.\obj\http_cgi.o: C:\Keil_v5\ARM\INC\Philips\LPC22XX.H

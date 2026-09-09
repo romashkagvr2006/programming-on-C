@@ -1,0 +1,13 @@
+.\obj\retarget.o: APP\Retarget.c
+.\obj\retarget.o: APP\..\APP\EXTERNALS.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\retarget.o: C:\Keil_v5\ARM\RV31\INC\..\INC\Net_Config.h
+.\obj\retarget.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\obj\retarget.o: APP\..\APP\..\APP\DEFINITION.h
+.\obj\retarget.o: C:\Keil_v5\ARM\INC\Philips\LPC22XX.H
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+.\obj\retarget.o: C:\Keil_v5\ARM\RV31\INC\File_Config.h

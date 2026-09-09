@@ -1,0 +1,10 @@
+.\obj\rss.o: RSS\RSS.c
+.\obj\rss.o: C:\Keil_v5\ARM\INC\Philips\LPC22XX.H
+.\obj\rss.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\rss.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\rss.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\obj\rss.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\rss.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\obj\rss.o: RSS\..\APP\EXTERNALS.h
+.\obj\rss.o: C:\Keil_v5\ARM\RV31\INC\..\INC\Net_Config.h
+.\obj\rss.o: RSS\..\APP\..\APP\DEFINITION.h

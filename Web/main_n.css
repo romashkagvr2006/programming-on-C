@@ -1,0 +1,102 @@
+redtext { color: #FF0000 }
+#bigtext { font-size: large } EM { color: #00FF00; font-weight: bold } p em {COLOR: #0000ff }
+#cheader { width: 1000px;  padding: 010px; border-top: thin solid #000080; border-bottom: thin solid #000080; border-left: thin solid #000080;
+border-right: thin solid #000080 }
+#cnavbar { width: 260px;height: 650px; float: left; margin-right: 0px; border-left: thin solid #000080; 
+border-bottom: thin solid #000080;}
+#cmain { width: 750px; height: 640px; float: left; overflow: auto; padding: 5px; border-left: thin solid #000080; border-right: thin solid #000080;
+border-bottom: thin solid #000080; }
+#ccopyright { width: 100%; clear: both }
+BODY { color: #3B4043; background-color: #F8F8F8; font-family: Verdana, Arial, sans-serif; margin:0px }
+P { font-size: 12pt }
+H1, H2, H6 { font-weight: normal; font-family: Arial, sans-serif; letter-spacing: 1mm;
+text-shadow: #CDD9DB 1px 1px }
+H1 { font-size: 20pt }
+H2 { font-size: 18pt }
+H6 { font-size: 12pt }
+TD, TH { padding: 2px; border: thin dotted #B1BEC6 }
+CAPTION {text-align: left}
+BLOCKQUOTE P, ADDRESS {font-size: 12pt; font-style: italic }
+#navbar {font-family: Arial, sans-serif; font-size: 14pt; text-transform: uppercase;
+list-style-type: none; margin-left: 20px }
+#navbar LI { padding: 5px 5px; margin: 10px 0px; border: thin solid #000080 }
+
+input[type=checkbox]{
+display: none;
+}
+
+ ib{
+ display:inline-block;
+ width: 30px;
+ height: 30px;
+ border: 1px solid #ccc;
+ background: red;
+ border-radius: 6px;
+ position: relative;
+ }
+
+ ib:before {
+ content: ' ';
+ position: absolute;
+ top: 2px; bottom: 2px;
+ left: 2px; right: 2px;
+ background: green;
+ border-radius: 6px;
+  opacity: 0;
+/* transition: .4s;*/
+ }
+
+ input[type=checkbox]:checked + ib:before {
+   opacity: 1;
+ }
+
+
+ i{
+ display: inline-block;
+ width: 20px;
+ height: 20px;
+ border: 1px solid #ccc;
+ border-radius: 6px;
+ position: relative;
+ }
+
+ i:before {
+ content: ' ';
+ position: absolute;
+ top: 2px; bottom: 2px;
+ left: 2px; right: 2px;
+ background: green;
+ border-radius: 6px;
+  opacity: 0;
+/* transition: .4s; */
+ }
+
+ input[type=checkbox]:checked + i:before {
+   opacity: 1;
+ }
+
+ ir{
+ display: inline-block;
+ width: 20px;
+ height: 20px;
+ border: 1px solid #ccc;
+ border-radius: 6px;
+ position: relative;
+ }
+
+ ir:before {
+ content: ' ';
+ position: absolute;
+ top: 2px; bottom: 2px;
+ left: 2px; right: 2px;
+ background: red;
+ border-radius: 6px;
+  opacity: 0;
+/* transition: .4s; */
+ }
+
+ input[type=checkbox]:checked + ir:before {
+   opacity: 1;
+ }
+
+
